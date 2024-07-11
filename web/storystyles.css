@@ -84,6 +84,16 @@ img {
     height: auto;
 }
 
+.bg {
+  background-image: url("bilder/Shipwreck Hintergrund.jfif");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 
 
