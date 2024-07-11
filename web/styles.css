@@ -20,7 +20,6 @@
   width: 100%;
 }
 
-
 .navbar a {
   float: left;
   display: block;
@@ -28,11 +27,6 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-.navbar a:hover {
-  background: #ddd;
-  color: black;
 }
 
 #searchInput {
@@ -47,7 +41,6 @@
   outline: none;
 }
 
-
 .btn {
   border: none;
   outline: none;
@@ -59,6 +52,10 @@
   border-right: 2px solid black;
 }
 
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
 
 .btn:last-of-type {
   border-right: none;
