@@ -124,3 +124,11 @@ p.copyright {
   background-color: rgba(0,0,0,.5);
   color: #fff;
 }
+
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
