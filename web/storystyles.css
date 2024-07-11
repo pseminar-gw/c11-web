@@ -52,15 +52,7 @@ body {
     padding: 0;
 }
 
-.bg {
-  background-image: url("bilder/rocks2.jfif");
 
-  height: 100%; 
-
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 h1 {
     color: #ffffff;
@@ -81,6 +73,16 @@ img {
     margin: 0 auto;
     max-width: 100%;
     height: auto;
+}
+
+.bg {
+  background-image: url("bilder/rocks2.jfif");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
