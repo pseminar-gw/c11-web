@@ -111,7 +111,7 @@ footer {
 }
 
 p.copyright {
-  position: absolute;
+  position: fixed;
   width: 100%;
   color: #fff;
   line-height: 40px;
