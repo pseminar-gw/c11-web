@@ -27,7 +27,7 @@ body, html {
 
 .topnav a.active {
   background-color: #b4b4b4;
-  color: white;
+  color: black;
 }
 
 
@@ -39,13 +39,10 @@ body {
 }
 
 .bg {
-  /* The image used */
   background-image: url("bilder/wasserwallpaper.jfif");
 
-  /* Full height */
   height: 100%; 
 
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
