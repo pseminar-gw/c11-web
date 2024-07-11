@@ -25,7 +25,6 @@ body, html {
   float: left;
   color: #ffffff;
   text-align: center;
-  text-shadow: 2px 2px #000000;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -33,13 +32,11 @@ body, html {
 
 .topnav a:hover {
   background-color: #ddd;
-  text-shadow: 2px 2px #ffffff;
   color: black;
 }
 
 .topnav a.active {
   background-color: #b4b4b4;
-  text-shadow: 2px 2px #ffffff;
   color: black;
 }
 
