@@ -1,7 +1,4 @@
 /* styles.css */
-body, html {
-  height: 100%;
-}
 
 #navBar {
   border: 2px solid white;
@@ -42,6 +39,12 @@ body, html {
 .btn:last-of-type {
   border-right: none;
 }
+
+body, html {
+  height: 100%;
+}
+
+
 
 body {
     font-family: Arial, sans-serif;
