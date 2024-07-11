@@ -25,6 +25,7 @@ body, html {
   float: left;
   color: #ffffff;
   text-align: center;
+  text-shadow: 2px 2px #ff0000;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -61,12 +62,14 @@ body {
 h1 {
     color: #FFFBD7;
     text-align: center;
+    text-shadow: 2px 2px #ff0000;
     padding: 20px;
 }
 
 p {
     color: #FFFBD7;
     text-align: center;
+    text-shadow: 2px 2px #ff0000;
     font-size: 18px;
 }
 
@@ -92,5 +95,6 @@ img {
         line-height: 40px;
         font-size: 0.7em;
         text-align: center;
+        text-shadow: 2px 2px #ff0000;
         bottom:0;
     }
