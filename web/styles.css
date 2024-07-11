@@ -48,6 +48,16 @@ body {
     padding: 0;
 }
 
+.bg__image {
+  position: absolute;
+  z-index: -9999;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  user-select: none;
+  pointer-events: none;
+}
+
 .bg {
   background-image: url("bilder/rocks2.jfif");
 
