@@ -1,5 +1,15 @@
 /* styles.css */
 
+/* peralta-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Peralta';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./assets/fonts/peralta/peralta-v19-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('./assets/fonts/peralta/peralta-v19-latin-regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+}
+
 
 body, html {
   height: 100%;
@@ -32,7 +42,7 @@ body, html {
 
 
 body {
-    font-family: Arial, sans-serif;
+  font-family: 'Peralta', sans-serif;
     background-color: #ffffff;
     margin: 0;
     padding: 0;
@@ -69,7 +79,6 @@ img {
 
 
 
-<style>
     footer {
         position: fixed;
         height: 300px;
@@ -85,4 +94,3 @@ img {
         text-align: center;
         bottom:0;
     }
-</style>
