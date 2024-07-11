@@ -120,6 +120,15 @@ p.copyright {
   bottom: 0;
 }
 
+.box {
+  background-color: #e1309e;
+  border: 10px solid #6a51d2;
+  height: 80px;
+  width: 80px;
+  box-shadow: 0 0 0 10px #f3f5f6 inset;
+  box-sizing: border-box;
+}
+
 .box2 {
   background-color: rgba(0,0,0,.5);
   color: #fff;
