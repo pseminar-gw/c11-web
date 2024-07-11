@@ -45,10 +45,6 @@ body, html {
 
 
 body {
-    body { margin-left:100px; }
-    p,div,table,ul,ol { margin-left:400px; }
-    body { margin-right:100px; }
-    p,div,table,ul,ol { margin-right:400px; }
     font-family: 'Peralta', sans-serif;
     background-color: #515151;
     margin: 0;
