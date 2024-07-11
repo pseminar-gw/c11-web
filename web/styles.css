@@ -124,6 +124,7 @@ p.copyright {
 .box2 {
   background-color: rgba(0,0,0,.5);
   color: #fff;
+
 }
 
 .center-screen {
@@ -131,5 +132,5 @@ p.copyright {
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-height: 100vh;
+  min-height: 80vh;
 }
