@@ -13,6 +13,17 @@
 
 body, html {
   height: 100%;
+
+.bg {
+  background-image: url("bilder/rocks2.jfif");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
 }
 
 
@@ -75,15 +86,7 @@ img {
     height: auto;
 }
 
-.bg {
-  background-image: url("bilder/rocks2.jfif");
 
-  height: 100%; 
-
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 
 
