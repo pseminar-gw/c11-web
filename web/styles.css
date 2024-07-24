@@ -134,7 +134,10 @@ p.copyright {
   text-align: center;
   min-height: 80vh;
   font-size: 40px;
-  text-shadow: 3.5px 3.5px #000000;
   color: #ffffff
   ;
+}
+
+.text-shadow {
+  text-shadow: 3.5px 3.5px #000000;
 }
